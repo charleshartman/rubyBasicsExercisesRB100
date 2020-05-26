@@ -6,4 +6,4 @@ for i in 1..100
   end
 end
 
-# puts i if i.odd? # book solution cooler, but again, mine does work :)
+# puts i if i.odd? # book solution cooler, but again, mine does work

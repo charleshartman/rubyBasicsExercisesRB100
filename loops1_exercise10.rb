@@ -6,4 +6,4 @@ for friend in friends
  puts "Hello #{friend}!"
 end
 
-# refactored down from my solution, which worked but used needless counter and 'i' named variable instead of 'friend'... learned something! :)
+# refactored down from my solution, which worked but used needless counter and 'i' named variable instead of 'friend'... learned something again

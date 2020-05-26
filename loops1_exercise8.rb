@@ -3,8 +3,8 @@
 numbers = [7, 9, 13, 25, 18]
 counter = 0
 
-until counter = numbers.size # book solution, better
-until counter == 5 # but mine does work :)
+# until counter = numbers.size # book solution, better
+until counter == 5 # mine works
   puts numbers[counter]
   counter += 1
 end
